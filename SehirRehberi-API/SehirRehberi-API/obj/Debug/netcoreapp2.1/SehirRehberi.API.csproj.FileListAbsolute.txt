@@ -1,0 +1,16 @@
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\SehirRehberi.API.deps.json
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\SehirRehberi.API.runtimeconfig.json
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\SehirRehberi.API.runtimeconfig.dev.json
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\SehirRehberi.API.dll
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\bin\Debug\netcoreapp2.1\SehirRehberi.API.pdb
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.csprojAssemblyReference.cache
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.RazorAssemblyInfo.cache
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.RazorAssemblyInfo.cs
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.AssemblyInfoInputs.cache
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.AssemblyInfo.cs
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.RazorTargetAssemblyInfo.cache
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.dll
+C:\Users\Anil\Desktop\angular\SehirRehberi\SehirRehberi-API\SehirRehberi-API\obj\Debug\netcoreapp2.1\SehirRehberi.API.pdb
