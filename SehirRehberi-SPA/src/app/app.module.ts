@@ -13,8 +13,11 @@ import { NgxGalleryModule } from '@kolkov/ngx-gallery';
 import { CityAddComponent } from './city/city-add/city-add.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AlertifyService } from './services/alertify.service'
-
-
+import { ModuleWithProviders } from "@angular/core";
+import { RegisterComponent } from './register/register.component';
+import { NgxEditorModule } from 'ngx-editor';
+import { FileUploadModule } from 'ng2-file-upload';
+import { PhotoComponent } from './photo/photo.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +25,9 @@ import { AlertifyService } from './services/alertify.service'
     NavComponent,
     CityComponent,
     CityDetailComponent,
-    CityAddComponent
+    CityAddComponent,
+    RegisterComponent,
+    PhotoComponent
   ],
   imports: [
     BrowserModule,
@@ -31,7 +36,9 @@ import { AlertifyService } from './services/alertify.service'
     NgxGalleryModule,
     RouterModule.forRoot(appRoutes),
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    NgxEditorModule,
+    FileUploadModule
 
   ],
   providers: [AlertifyService],
